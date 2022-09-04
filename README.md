@@ -1,2 +1,2 @@
 # C-Language
-Full Tutorial
+Cs50 Tutorial
